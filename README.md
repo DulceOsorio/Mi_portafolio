@@ -14,7 +14,7 @@ El próposito de la creación de este sitio web es mostrar el portafolio de proy
 
 
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visitar mi e-portfolio** </a>
+<a href="https://mye-portfolio.netlify.app">**Visitar mi e-portfolio** </a>
 
 
 
